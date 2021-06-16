@@ -23,12 +23,12 @@ function PageContent(): JSX.Element {
             />
             <Page
             title = {"Twickenham Stadium"}
-            placename = {""}
-            countryname = {""}
-            mainimage   = {""}
-            main_image_address = {""}
-            link_to_rough_location = {""}
-            description = {""}
+            placename = {"Twickenham"}
+            countryname = {"London"}
+            mainimage   = {"England vs Australia at Twickenham Stadium"}
+            main_image_address = {"https://media.tacdn.com/media/attractions-splice-spp-674x446/07/9b/da/1f.jpg"}
+            link_to_rough_location = {"https://goo.gl/maps/EqfNoXoQ1txH1odr8"}
+            description = {"It's a bit sad but probably been the happiest I have ever been watching England beat New Zealand here."}
             />
             <Page
             title = {""}
