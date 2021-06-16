@@ -10,7 +10,7 @@ interface PagesProps {
 
 function Page(props: PagesProps): JSX.Element {
     return(
-        <main>
+        <section>
             <div className = 'image'>
                 <img src = {props.main_image_address} alt ={props.mainimage}/>
             </div>
@@ -19,7 +19,7 @@ function Page(props: PagesProps): JSX.Element {
             <div className = 'description'>
                 {props.description}
             </div>
-        </main>
+        </section>
     )
 }
 
