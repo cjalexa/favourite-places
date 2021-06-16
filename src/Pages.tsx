@@ -1,11 +1,11 @@
 interface PagesProps {
-    title : string
-    placename : string
-    countryname : string
-    mainimage   : string
-    main_image_address : string
-    link_to_rough_location : string
-    description : string
+    title : string;
+    placename : string;
+    countryname : string;
+    mainimage   : string;
+    main_image_address : string;
+    link_to_rough_location : string;
+    description : string;
 }
 
 function Page(props: PagesProps): JSX.Element {
