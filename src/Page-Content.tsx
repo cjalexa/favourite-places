@@ -8,7 +8,7 @@ function PageContent(): JSX.Element {
             placename = {"Cusco"}
             countryname = {"Peru"}
             mainimage   = {"Sun rising over Machu Picchu"}
-            main_image_address = {"https://www.dropbox.com/s/prxx6kl6guxaey6/2016-06-18%2007.12.10%20HDR-2.jpg?dl=0"}
+            main_image_address = {"https://images.unsplash.com/photo-1526392060635-9d6019884377?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"}
             link_to_rough_location = {"https://goo.gl/maps/9BkQALg25vHjRpVc7"}
             description = {"Having trekked for 4 days along the Inca trail,seeing the sun rise over Machu Picchu was one of the best experiences of my life."}
             />
@@ -17,12 +17,12 @@ function PageContent(): JSX.Element {
             placename = {"Gwithian"}
             countryname = {"Cornwall"}
             mainimage   = {"Tide out at Godrevy beach"}
-            main_image_address = {"./home/2105-011-lfr/Downloads/IMG_20200514_184503.jpg"}
+            main_image_address = {"https://images.unsplash.com/photo-1622904220969-869979a5cecb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80"}
             link_to_rough_location = {"https://goo.gl/maps/Cqst7PEZmNxVsR5a6"}
             description = {"The closest beach to my house, has been a family favourite for years and nothing beats a bbq on it after a day of surfing."}
             />
             <Page
-            title = {""}
+            title = {"Twickenham Stadium"}
             placename = {""}
             countryname = {""}
             mainimage   = {""}
