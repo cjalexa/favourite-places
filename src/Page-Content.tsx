@@ -31,13 +31,13 @@ function PageContent(): JSX.Element {
             description = {"It's a bit sad but probably been the happiest I have ever been watching England beat New Zealand here."}
             />
             <Page
-            title = {""}
-            placename = {""}
-            countryname = {""}
-            mainimage   = {""}
-            main_image_address = {""}
-            link_to_rough_location = {""}
-            description = {""}
+            title = {"Buenos Aires"}
+            placename = {"Buenos Aires"}
+            countryname = {"Argentina"}
+            mainimage   = {"Boca District in Buenos Aires"}
+            main_image_address = {"https://images.unsplash.com/photo-1612294043468-2904c075bcfd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"}
+            link_to_rough_location = {"https://goo.gl/maps/rbMungw8mkQHgzFv8"}
+            description = {"Like Europe in South America with better football, more red meat and better wine"}
             />
     </main>
     )
