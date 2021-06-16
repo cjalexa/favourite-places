@@ -9,7 +9,7 @@ interface PagesProps {
 
 function Page(props: PagesProps): JSX.Element {
     return(
-        <img src='#' alt {props.mainimage} />
+        <img src='#' alt ={props.mainimage} />
     )
 }
 
