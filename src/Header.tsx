@@ -2,7 +2,7 @@ function Header() : JSX.Element {
     return (
         <div className = 'header'>
             <h1>
-                My favourite places
+                My Favourite Places
             </h1>
         </div>
     )
