@@ -10,16 +10,14 @@ interface PagesProps {
 
 function Page(props: PagesProps): JSX.Element {
     return(
-        <section>
-            <div className = 'image'>
-                <img src = {props.main_image_address} alt ={props.mainimage}/>
-            </div>
+        <div className = 'section'>
+            <img src = {props.main_image_address} alt ={props.mainimage} width="800px" />
             <h1>{props.title}</h1>
-            <h2>{props.placename},{props.countryname} <a href={props.link_to_rough_location}> (map link) </a></h2>
+            <h2>{props.placename}, {props.countryname} <a href={props.link_to_rough_location}> (map link) </a></h2>
             <div className = 'description'>
                 {props.description}
             </div>
-        </section>
+        </div>
     )
 }
 

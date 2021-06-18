@@ -2,6 +2,37 @@
   background-color: grey;
   text-align: center;
   color: whitesmoke;
-  padding: 50px;
-  margin-bottom: 50px;
+  padding: 25px;
+  margin-bottom: 25px;
+  font-size: 35px;
+}
+
+.image {
+ width: 800px;
+ margin: 20px;
+ border: 40px teal;
+}
+
+.section {
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  width: 800px;
+  margin: 20px auto;
+}
+.h1 {
+  text-align: center;
+  margin: auto
+}
+.h2 {
+  text-align: center;
+}
+.footer {
+  font-size: smaller;
+  background-color: rgb(47, 47, 47);
+  color: white
 }
